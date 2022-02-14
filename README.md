@@ -1,7 +1,7 @@
 Teams Notification using Python
 
 Sending MS Teams notification with Python
-
+<img src="code.jpg">
 <img src="capture.jpg">
 
 14-Feb-2021
